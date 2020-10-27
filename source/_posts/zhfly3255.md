@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-10385）WordPress Plugin - WPForms 1.5.9 储存型xss
+title: "（CVE-2020-10385）WordPress Plugin - WPForms 1.5.9 储存型xss"
 id: zhfly3255
 ---
 

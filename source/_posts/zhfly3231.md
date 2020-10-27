@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-2890）WebLogic反序列化漏洞
+title: "（CVE-2019-2890）WebLogic反序列化漏洞"
 id: zhfly3231
 ---
 

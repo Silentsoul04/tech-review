@@ -1,5 +1,5 @@
 ---
-title: 【开启会员注册】（SSV-97087）DeDecms 任意用户登录
+title: "【开启会员注册】（SSV-97087）DeDecms 任意用户登录"
 id: zhfly2864
 ---
 

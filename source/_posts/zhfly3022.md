@@ -1,5 +1,5 @@
 ---
-title: MKCMS v5.0 /ucenter/reg.php前台注入漏洞
+title: "MKCMS v5.0 /ucenter/reg.php前台注入漏洞"
 id: zhfly3022
 ---
 

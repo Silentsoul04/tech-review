@@ -1,5 +1,5 @@
 ---
-title: 利用 Apache+mod_cgi+.htaccess 绕过
+title: "利用 Apache+mod_cgi+.htaccess 绕过"
 id: zhfly3469
 ---
 

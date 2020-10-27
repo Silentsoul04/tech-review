@@ -1,5 +1,5 @@
 ---
-title: Thinkphp 3.2.3 select&find&delete 注入漏洞
+title: "Thinkphp 3.2.3 select&find&delete 注入漏洞"
 id: zhfly3145
 ---
 

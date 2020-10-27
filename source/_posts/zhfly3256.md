@@ -1,5 +1,5 @@
 ---
-title: （CVE-2017-6514）WordPress 4.7.2 敏感信息泄漏
+title: "（CVE-2017-6514）WordPress 4.7.2 敏感信息泄漏"
 id: zhfly3256
 ---
 

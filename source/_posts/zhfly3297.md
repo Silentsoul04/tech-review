@@ -1,5 +1,5 @@
 ---
-title: YXCMS 1.4.7储存型xss
+title: "YXCMS 1.4.7储存型xss"
 id: zhfly3297
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: XDCMS 1.0 重装系统漏洞
+title: "XDCMS 1.0 重装系统漏洞"
 id: zhfly3278
 ---
 

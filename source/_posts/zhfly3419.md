@@ -1,5 +1,5 @@
 ---
-title: 4.2.1.1 IPC 利用条件
+title: "4.2.1.1 IPC 利用条件"
 id: zhfly3419
 ---
 

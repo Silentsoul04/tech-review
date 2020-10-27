@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-5504）Phpmyadmin 后台sql注入漏洞
+title: "（CVE-2020-5504）Phpmyadmin 后台sql注入漏洞"
 id: zhfly3086
 ---
 

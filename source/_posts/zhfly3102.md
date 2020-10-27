@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-16662）rConfig远程命令执行
+title: "（CVE-2019-16662）rConfig远程命令执行"
 id: zhfly3102
 ---
 
@@ -22,7 +22,7 @@ pyton脚本一
 ```
 #!/usr/bin/python
 
-# Exploit Title: rConfig v3.9.2 unauthenticated Remote Code Execution
+# Exploit title: "rConfig v3.9.2 unauthenticated Remote Code Execution"
 
 # Date: 18/09/2019
 
@@ -92,7 +92,7 @@ python脚本二
 ```
 #!/usr/bin/python
 
-# Exploit Title: rConfig v3.9.2 Authenticated Remote Code Execution
+# Exploit title: "rConfig v3.9.2 Authenticated Remote Code Execution"
 
 # Date: 18/09/2019
 

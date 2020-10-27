@@ -1,5 +1,5 @@
 ---
-title: （CVE-2014-3120）ElasticSearch 命令执行漏洞
+title: "（CVE-2014-3120）ElasticSearch 命令执行漏洞"
 id: zhfly2902
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Discuz!X 系列全版本 后台Sql注入漏洞
+title: "Discuz!X 系列全版本 后台Sql注入漏洞"
 id: zhfly2882
 ---
 

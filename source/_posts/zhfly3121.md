@@ -1,5 +1,5 @@
 ---
-title: Semcms v2.7 密码找回漏洞
+title: "Semcms v2.7 密码找回漏洞"
 id: zhfly3121
 ---
 

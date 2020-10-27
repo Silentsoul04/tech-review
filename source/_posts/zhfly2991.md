@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-8451）Jira未授权SSRF漏洞验证
+title: "（CVE-2019-8451）Jira未授权SSRF漏洞验证"
 id: zhfly2991
 ---
 

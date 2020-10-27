@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-14729）Discuz! X1.5 ~ X2.5 后台数据库备份功能远程命令执行 Getshell
+title: "（CVE-2018-14729）Discuz! X1.5 ~ X2.5 后台数据库备份功能远程命令执行 Getshell"
 id: zhfly2883
 ---
 

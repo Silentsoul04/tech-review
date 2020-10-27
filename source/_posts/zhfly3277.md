@@ -1,5 +1,5 @@
 ---
-title: XDCMS 1.0 任意文件包含漏洞
+title: "XDCMS 1.0 任意文件包含漏洞"
 id: zhfly3277
 ---
 

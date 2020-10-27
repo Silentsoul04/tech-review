@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-20372）Nginx error_page 请求走私漏洞
+title: "（CVE-2019-20372）Nginx error_page 请求走私漏洞"
 id: zhfly3048
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Discuz < 3.4 authkey 算法的安全性漏洞
+title: "Discuz < 3.4 authkey 算法的安全性漏洞"
 id: zhfly2871
 ---
 

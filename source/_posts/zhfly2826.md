@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-0193）Apache Solr 远程命令执行漏洞
+title: "（CVE-2019-0193）Apache Solr 远程命令执行漏洞"
 id: zhfly2826
 ---
 

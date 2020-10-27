@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-8057）Cobub Razor 0.8.0 存在SQL注入漏洞
+title: "（CVE-2018-8057）Cobub Razor 0.8.0 存在SQL注入漏洞"
 id: zhfly2850
 ---
 

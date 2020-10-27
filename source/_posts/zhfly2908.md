@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-1000006）Electron 远程命令执行漏洞
+title: "（CVE-2018-1000006）Electron 远程命令执行漏洞"
 id: zhfly2908
 ---
 

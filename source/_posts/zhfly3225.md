@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-2893）WebLogic WLS核心组件反序列化漏洞
+title: "（CVE-2018-2893）WebLogic WLS核心组件反序列化漏洞"
 id: zhfly3225
 ---
 

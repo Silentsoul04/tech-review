@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-19287）WordPress Plugin - Ninja Forms 3.3.17 XSS
+title: "（CVE-2018-19287）WordPress Plugin - Ninja Forms 3.3.17 XSS"
 id: zhfly3247
 ---
 

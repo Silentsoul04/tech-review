@@ -1,5 +1,5 @@
 ---
-title: （CVE-2016-1247）Nginx 提权漏洞
+title: "（CVE-2016-1247）Nginx 提权漏洞"
 id: zhfly3046
 ---
 

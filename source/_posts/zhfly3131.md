@@ -1,5 +1,5 @@
 ---
-title: Spring Boot Actuator jolokia 配置不当导致的远程文件包含漏洞
+title: "Spring Boot Actuator jolokia 配置不当导致的远程文件包含漏洞"
 id: zhfly3131
 ---
 

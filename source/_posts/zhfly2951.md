@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-16509）GhostScript 沙箱绕过（命令执行）漏洞
+title: "（CVE-2018-16509）GhostScript 沙箱绕过（命令执行）漏洞"
 id: zhfly2951
 ---
 

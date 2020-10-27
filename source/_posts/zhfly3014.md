@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-7221）Mariadb 提权漏洞
+title: "（CVE-2020-7221）Mariadb 提权漏洞"
 id: zhfly3014
 ---
 

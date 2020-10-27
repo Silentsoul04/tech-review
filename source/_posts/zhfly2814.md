@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-7799） Apache FreeMarker模板FusionAuth远程代码执行漏洞
+title: "（CVE-2020-7799） Apache FreeMarker模板FusionAuth远程代码执行漏洞"
 id: zhfly2814
 ---
 

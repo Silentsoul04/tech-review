@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-7720）Cobub Razor 0.7.2 存在跨站请求伪造漏洞
+title: "（CVE-2018-7720）Cobub Razor 0.7.2 存在跨站请求伪造漏洞"
 id: zhfly2847
 ---
 

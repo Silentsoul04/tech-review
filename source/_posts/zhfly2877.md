@@ -1,5 +1,5 @@
 ---
-title: Discuz!x 3.4 任意文件删除漏洞
+title: "Discuz!x 3.4 任意文件删除漏洞"
 id: zhfly2877
 ---
 

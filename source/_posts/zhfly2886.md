@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-14234）Django JSONField sql注入漏洞
+title: "（CVE-2019-14234）Django JSONField sql注入漏洞"
 id: zhfly2886
 ---
 

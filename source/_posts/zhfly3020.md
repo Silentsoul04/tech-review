@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-17080）Mintinstall object injection
+title: "（CVE-2019-17080）Mintinstall object injection"
 id: zhfly3020
 ---
 

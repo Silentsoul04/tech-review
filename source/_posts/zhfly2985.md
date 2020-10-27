@@ -1,5 +1,5 @@
 ---
-title: （CVE-2017-7504）JBoss 4.x JBossMQ JMS 反序列化漏洞
+title: "（CVE-2017-7504）JBoss 4.x JBossMQ JMS 反序列化漏洞"
 id: zhfly2985
 ---
 

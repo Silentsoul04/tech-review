@@ -1,5 +1,5 @@
 ---
-title: Nginx 配置错误漏洞 目录穿越漏洞
+title: "Nginx 配置错误漏洞 目录穿越漏洞"
 id: zhfly3042
 ---
 

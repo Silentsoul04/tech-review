@@ -1,5 +1,5 @@
 ---
-title: THINKCMFX_2.2.3漏洞合集
+title: "THINKCMFX_2.2.3漏洞合集"
 id: zhfly3140
 ---
 

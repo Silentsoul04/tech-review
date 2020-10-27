@@ -1,5 +1,5 @@
 ---
-title: 尝试将本地 C2 隐匿于 SSH 加密隧道中
+title: "尝试将本地 C2 隐匿于 SSH 加密隧道中"
 id: zhfly3649
 ---
 

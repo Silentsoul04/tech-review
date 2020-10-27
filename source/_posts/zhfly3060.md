@@ -1,5 +1,5 @@
 ---
-title: OpenSNS v6.1.0 前台sql注入
+title: "OpenSNS v6.1.0 前台sql注入"
 id: zhfly3060
 ---
 

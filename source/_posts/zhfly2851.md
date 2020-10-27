@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-10846）Computrols CBAS Web反射型xss
+title: "（CVE-2019-10846）Computrols CBAS Web反射型xss"
 id: zhfly2851
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-16520）WordPress Plugin - All in One SEO Pack 储存型xss
+title: "（CVE-2019-16520）WordPress Plugin - All in One SEO Pack 储存型xss"
 id: zhfly3251
 ---
 
@@ -20,7 +20,7 @@ wordpress <= 3.2.6
 创建或编辑帖子时，可以设置以下值来显示漏洞：
 
 ```
-Title: test_aiosp_title&<>"';><script src='data:text/javascript,alert(1)'></script>a
+title: "test_aiosp_title&<>"';><script src='data:text/javascript,alert(1)'></script>a"
 Description: test_aiosp_desc&<>"'; pt:%post_title% wp_title:%wp_title% bd:%blog_description% sd:%site_description% bt: %blog_title% st: %site_title% desc:%description% 
 ```
 

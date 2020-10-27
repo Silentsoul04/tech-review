@@ -1,5 +1,5 @@
 ---
-title: WordPress Plugin - Quizlord 2.0 XSS
+title: "WordPress Plugin - Quizlord 2.0 XSS"
 id: zhfly3243
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: WordPress Plugin - Easy WP SMTP 反序列化漏洞
+title: "WordPress Plugin - Easy WP SMTP 反序列化漏洞"
 id: zhfly3242
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Joomla! com_fabrik 3.9.11 目录遍历漏洞
+title: "Joomla! com_fabrik 3.9.11 目录遍历漏洞"
 id: zhfly2999
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2017-1000480）Smarty<=3.1.31 命令执行RCE
+title: "（CVE-2017-1000480）Smarty<=3.1.31 命令执行RCE"
 id: zhfly3127
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: imagemagick+GhostScript
+title: "imagemagick+GhostScript"
 id: zhfly3465
 ---
 

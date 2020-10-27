@@ -1,5 +1,5 @@
 ---
-title: Yunyecms V2.0.2 前台注入漏洞（一）
+title: "Yunyecms V2.0.2 前台注入漏洞（一）"
 id: zhfly3292
 ---
 

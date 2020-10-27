@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike Beacon 基础信息搜集
+title: "Cobalt Strike Beacon 基础信息搜集"
 id: zhfly3641
 ---
 

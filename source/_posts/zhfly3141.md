@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-7580）ThinkCMF 5.0.190111 后台代码执行漏洞
+title: "（CVE-2019-7580）ThinkCMF 5.0.190111 后台代码执行漏洞"
 id: zhfly3141
 ---
 

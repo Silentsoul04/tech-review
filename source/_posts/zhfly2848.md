@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-7745）Cobub Razor 0.7.2 越权增加管理员账户
+title: "（CVE-2018-7745）Cobub Razor 0.7.2 越权增加管理员账户"
 id: zhfly2848
 ---
 

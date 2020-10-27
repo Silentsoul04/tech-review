@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike C2 Profile 原理
+title: "Cobalt Strike C2 Profile 原理"
 id: zhfly3646
 ---
 

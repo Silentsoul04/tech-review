@@ -1,5 +1,5 @@
 ---
-title: ECShop <= 2.7.x sql注入漏洞
+title: "ECShop <= 2.7.x sql注入漏洞"
 id: zhfly2898
 ---
 

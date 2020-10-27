@@ -1,5 +1,5 @@
 ---
-title: WordPress Plugin - NextGEN Gallery <= 3.2.2 RCE
+title: "WordPress Plugin - NextGEN Gallery <= 3.2.2 RCE"
 id: zhfly3241
 ---
 

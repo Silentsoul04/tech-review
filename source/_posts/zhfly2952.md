@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-11231）GetSimple CMS远程命令执行
+title: "（CVE-2019-11231）GetSimple CMS远程命令执行"
 id: zhfly2952
 ---
 

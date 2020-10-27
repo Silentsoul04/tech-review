@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-6404）Google Chrome Blink 缓冲区错误漏洞
+title: "（CVE-2020-6404）Google Chrome Blink 缓冲区错误漏洞"
 id: zhfly2960
 ---
 

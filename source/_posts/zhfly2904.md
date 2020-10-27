@@ -1,5 +1,5 @@
 ---
-title: （CVE-2015-1427）ElasticSearch Groovy 沙盒绕过 && 代码执行漏洞
+title: "（CVE-2015-1427）ElasticSearch Groovy 沙盒绕过 && 代码执行漏洞"
 id: zhfly2904
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-11023）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞
+title: "（CVE-2018-11023）Amazon Kindle Fire HD (3rd) Fire OS kernel组件安全漏洞"
 id: zhfly3375
 ---
 

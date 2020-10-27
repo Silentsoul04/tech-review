@@ -1,5 +1,5 @@
 ---
-title: CVE-2019-19113）Newbee-mall新蜂商城sql注入
+title: "CVE-2019-19113）Newbee-mall新蜂商城sql注入"
 id: zhfly3037
 ---
 

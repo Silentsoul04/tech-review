@@ -1,5 +1,5 @@
 ---
-title: Burpsuite 自动化blind-xss插件
+title: "Burpsuite 自动化blind-xss插件"
 id: zhfly3638
 ---
 

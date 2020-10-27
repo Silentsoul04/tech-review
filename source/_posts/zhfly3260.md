@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-6389）WordPress <= 4.9.x 拒绝服务漏洞
+title: "（CVE-2018-6389）WordPress <= 4.9.x 拒绝服务漏洞"
 id: zhfly3260
 ---
 

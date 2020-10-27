@@ -1,5 +1,5 @@
 ---
-title: Sapido多款路由器命令执行漏洞&突破
+title: "Sapido多款路由器命令执行漏洞&突破"
 id: zhfly3400
 ---
 
@@ -82,7 +82,7 @@ RB1732-v2.0.43
 ### 0x07 poc
 
 ```
-# Exploit Title: SAPIDO RB-1732 command line execution
+# Exploit title: "SAPIDO RB-1732 command line execution"
 # Date: 2019-6-24
 # Exploit Author: k1nm3n.aotoi
 # Vendor Homepage: http://www.sapido.com.tw/

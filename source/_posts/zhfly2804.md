@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-7667）Adminer服务器端请求伪造漏洞
+title: "（CVE-2018-7667）Adminer服务器端请求伪造漏洞"
 id: zhfly2804
 ---
 

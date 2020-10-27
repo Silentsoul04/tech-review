@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-8056/CVE-2018-8770）Cobub Razor 0.8.0 存在物理路径泄露漏洞
+title: "（CVE-2018-8056/CVE-2018-8770）Cobub Razor 0.8.0 存在物理路径泄露漏洞"
 id: zhfly2849
 ---
 

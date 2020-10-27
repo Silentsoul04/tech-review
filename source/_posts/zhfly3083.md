@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-19968）Phpmyadmin 文件包含漏洞
+title: "（CVE-2018-19968）Phpmyadmin 文件包含漏洞"
 id: zhfly3083
 ---
 

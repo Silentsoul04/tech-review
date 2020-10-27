@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-18622）Phpmyadmin xss
+title: "（CVE-2019-18622）Phpmyadmin xss"
 id: zhfly3085
 ---
 

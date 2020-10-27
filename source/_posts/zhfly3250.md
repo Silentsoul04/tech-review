@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-15866）WordPress Plugin - Crelly Slider 任意文件上传&RCE漏洞
+title: "（CVE-2019-15866）WordPress Plugin - Crelly Slider 任意文件上传&RCE漏洞"
 id: zhfly3250
 ---
 

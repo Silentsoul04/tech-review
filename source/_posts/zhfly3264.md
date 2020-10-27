@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-16219）WordPress 5.2.3 内置编辑器Gutenberg 储存型xss
+title: "（CVE-2019-16219）WordPress 5.2.3 内置编辑器Gutenberg 储存型xss"
 id: zhfly3264
 ---
 

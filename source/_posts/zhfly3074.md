@@ -1,5 +1,5 @@
 ---
-title: php mt_rand函数的安全问题探讨
+title: "php mt_rand函数的安全问题探讨"
 id: zhfly3074
 ---
 

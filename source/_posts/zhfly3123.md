@@ -1,5 +1,5 @@
 ---
-title: Semcms v3.8 sql注入漏洞
+title: "Semcms v3.8 sql注入漏洞"
 id: zhfly3123
 ---
 

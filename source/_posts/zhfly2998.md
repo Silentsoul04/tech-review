@@ -1,5 +1,5 @@
 ---
-title: Joomla 3.4.6 - 'configuration.php' Remote Code Execution
+title: "Joomla 3.4.6 - 'configuration.php' Remote Code Execution"
 id: zhfly2998
 ---
 

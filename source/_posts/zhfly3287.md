@@ -1,5 +1,5 @@
 ---
-title: XYHCMS 3.6 后台代码执行漏洞
+title: "XYHCMS 3.6 后台代码执行漏洞"
 id: zhfly3287
 ---
 

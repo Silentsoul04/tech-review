@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-2551）Weblogic CVE-2020-2551 IIOP协议反序列化rce
+title: "（CVE-2020-2551）Weblogic CVE-2020-2551 IIOP协议反序列化rce"
 id: zhfly3232
 ---
 

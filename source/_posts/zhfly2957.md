@@ -1,5 +1,5 @@
 ---
-title: Gitlab wiki 储存型xss
+title: "Gitlab wiki 储存型xss"
 id: zhfly2957
 ---
 
@@ -20,7 +20,7 @@ id: zhfly2957
 *   7、填写每个表格：
 
 ```
-Title: javascript:
+title: "javascript:"
 
 Format:Markdown `Content:` 
 ```

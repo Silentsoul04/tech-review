@@ -1,5 +1,5 @@
 ---
-title: Discuz!X 3.4 任意文件删除配合install过程getshell
+title: "Discuz!X 3.4 任意文件删除配合install过程getshell"
 id: zhfly2879
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Semcms PHP(多语)版 V3.9 sql注入漏洞
+title: "Semcms PHP(多语)版 V3.9 sql注入漏洞"
 id: zhfly3124
 ---
 

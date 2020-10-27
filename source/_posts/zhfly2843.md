@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-19781）Citrix ADC&NetScaler 远程命令执行漏洞
+title: "（CVE-2019-19781）Citrix ADC&NetScaler 远程命令执行漏洞"
 id: zhfly2843
 ---
 

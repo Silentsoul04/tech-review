@@ -1,5 +1,5 @@
 ---
-title: （CVE-2014-3704）Drupal < 7.32 “Drupalgeddon” sql注入漏洞
+title: "（CVE-2014-3704）Drupal < 7.32 “Drupalgeddon” sql注入漏洞"
 id: zhfly2891
 ---
 

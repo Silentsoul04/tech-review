@@ -1,5 +1,5 @@
 ---
-title: Wordpress 5.2.4 cors跨域劫持漏洞
+title: "Wordpress 5.2.4 cors跨域劫持漏洞"
 id: zhfly3266
 ---
 

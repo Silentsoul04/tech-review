@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike C2 Profile 用途
+title: "Cobalt Strike C2 Profile 用途"
 id: zhfly3647
 ---
 

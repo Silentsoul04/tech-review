@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-12613）Phpmyadmin 远程文件包含漏洞
+title: "（CVE-2018-12613）Phpmyadmin 远程文件包含漏洞"
 id: zhfly3082
 ---
 

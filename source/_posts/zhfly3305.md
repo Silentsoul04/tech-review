@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-8756）YzmCMS v3.7.1 Eval注入漏洞
+title: "（CVE-2018-8756）YzmCMS v3.7.1 Eval注入漏洞"
 id: zhfly3305
 ---
 

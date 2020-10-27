@@ -1,5 +1,5 @@
 ---
-title: JYmusic 2.0 命令执行漏洞
+title: "JYmusic 2.0 命令执行漏洞"
 id: zhfly3004
 ---
 

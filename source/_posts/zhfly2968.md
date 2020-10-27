@@ -1,5 +1,5 @@
 ---
-title: （CVE-2016-3714）ImageMagick 命令执行漏洞
+title: "（CVE-2016-3714）ImageMagick 命令执行漏洞"
 id: zhfly2968
 ---
 

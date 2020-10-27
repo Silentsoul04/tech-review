@@ -1,5 +1,5 @@
 ---
-title: Emlog 相册插件前台SQL注入+Getshell
+title: "Emlog 相册插件前台SQL注入+Getshell"
 id: zhfly2911
 ---
 

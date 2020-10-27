@@ -1,5 +1,5 @@
 ---
-title: YXCMS 1.4.7SQL注入
+title: "YXCMS 1.4.7SQL注入"
 id: zhfly3300
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Emlog phpinfo 泄漏
+title: "Emlog phpinfo 泄漏"
 id: zhfly2909
 ---
 

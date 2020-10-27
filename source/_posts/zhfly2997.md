@@ -1,5 +1,5 @@
 ---
-title: （CVE-2015-8562）Joomla 3.4.5 反序列化漏洞
+title: "（CVE-2015-8562）Joomla 3.4.5 反序列化漏洞"
 id: zhfly2997
 ---
 
@@ -131,7 +131,7 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 #!/usr/bin/python
 
-# Exploit Title: Joomla 1.5 - 3.4.5 Object Injection RCE
+# Exploit title: "Joomla 1.5 - 3.4.5 Object Injection RCE"
 
 # Date: 15/09/2017
 

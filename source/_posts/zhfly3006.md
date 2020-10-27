@@ -1,5 +1,5 @@
 ---
-title: （CVE-2017-1002024）Kindeditor <=4.1.11 上传漏洞
+title: "（CVE-2017-1002024）Kindeditor <=4.1.11 上传漏洞"
 id: zhfly3006
 ---
 

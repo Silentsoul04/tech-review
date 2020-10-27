@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-16523）WordPress Plugin - Events Manager 储存型xss
+title: "（CVE-2019-16523）WordPress Plugin - Events Manager 储存型xss"
 id: zhfly3253
 ---
 

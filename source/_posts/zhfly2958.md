@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-5096） GoAhead远程代码溢出漏洞
+title: "（CVE-2019-5096） GoAhead远程代码溢出漏洞"
 id: zhfly2958
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Blind XXE 原理
+title: "Blind XXE 原理"
 id: zhfly3593
 ---
 

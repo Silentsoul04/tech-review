@@ -1,5 +1,5 @@
 ---
-title: WordPress Plugin - Social Warfare<=3.5.2 RCE
+title: "WordPress Plugin - Social Warfare<=3.5.2 RCE"
 id: zhfly3245
 ---
 

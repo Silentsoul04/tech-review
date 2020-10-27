@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike 参数翻译
+title: "Cobalt Strike 参数翻译"
 id: zhfly3640
 ---
 

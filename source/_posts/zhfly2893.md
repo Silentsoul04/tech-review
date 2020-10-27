@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-7600）Drupal Drupalgeddon 2 远程代码执行漏洞
+title: "（CVE-2018-7600）Drupal Drupalgeddon 2 远程代码执行漏洞"
 id: zhfly2893
 ---
 

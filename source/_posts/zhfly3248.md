@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-9978）WordPress Plugin - social warfare 远程命令执行漏洞
+title: "（CVE-2019-9978）WordPress Plugin - social warfare 远程命令执行漏洞"
 id: zhfly3248
 ---
 
@@ -31,7 +31,7 @@ Social WarFare Plugin (<=3.5.2)
 > ```
 
 ```
-# Title: RCE in Social Warfare Plugin ( <=3.5.2 )
+# title: "RCE in Social Warfare Plugin ( <=3.5.2 )"
 # Date: March, 2019
 # Researcher: Luka Sikic
 # Exploit Author: hash3liZer

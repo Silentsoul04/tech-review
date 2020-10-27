@@ -1,5 +1,5 @@
 ---
-title: Spring Boot Actuator hikari配置不当导致的远程命令执行漏洞
+title: "Spring Boot Actuator hikari配置不当导致的远程命令执行漏洞"
 id: zhfly3133
 ---
 

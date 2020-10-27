@@ -1,5 +1,5 @@
 ---
-title: 利用 ImageMagick 漏洞绕过（一）
+title: "利用 ImageMagick 漏洞绕过（一）"
 id: zhfly3470
 ---
 

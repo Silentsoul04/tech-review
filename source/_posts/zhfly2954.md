@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-6116）GhostScript 沙箱绕过（命令执行）漏洞
+title: "（CVE-2019-6116）GhostScript 沙箱绕过（命令执行）漏洞"
 id: zhfly2954
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike 安装说明
+title: "Cobalt Strike 安装说明"
 id: zhfly3639
 ---
 

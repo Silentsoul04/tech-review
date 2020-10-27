@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-6341）Drupal xss漏洞
+title: "（CVE-2019-6341）Drupal xss漏洞"
 id: zhfly2897
 ---
 

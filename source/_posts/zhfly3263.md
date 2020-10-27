@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-8943）WordPress 5.0.3 - Crop-image Shell Upload (Metasploit)
+title: "（CVE-2019-8943）WordPress 5.0.3 - Crop-image Shell Upload (Metasploit)"
 id: zhfly3263
 ---
 

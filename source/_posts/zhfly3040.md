@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-10204）Nexus Repository Manager 远程执行代码漏洞
+title: "（CVE-2020-10204）Nexus Repository Manager 远程执行代码漏洞"
 id: zhfly3040
 ---
 

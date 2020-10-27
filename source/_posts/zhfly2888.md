@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-9402）Django Geo sql注入
+title: "（CVE-2020-9402）Django Geo sql注入"
 id: zhfly2888
 ---
 

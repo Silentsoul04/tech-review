@@ -1,5 +1,5 @@
 ---
-title: Umbraco CMS 7.12.4 后台远程命令执行漏洞
+title: "Umbraco CMS 7.12.4 后台远程命令执行漏洞"
 id: zhfly3210
 ---
 
@@ -44,7 +44,7 @@ $ python exploit.py -u admin@example.org -p password123 -i 'http://10.0.0.1' -c 
 ### poc
 
 ```
-# Exploit Title: Umbraco CMS - Authenticated Remote Code Execution 
+# Exploit title: "Umbraco CMS - Authenticated Remote Code Execution "
 # Date: 2020-03-28
 # Exploit Author: Alexandre ZANNI (noraj)
 # Based on: https://www.exploit-db.com/exploits/46153

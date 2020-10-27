@@ -1,5 +1,5 @@
 ---
-title: （CVE-2010-0738）JBoss JMX控制台安全验证绕过漏洞
+title: "（CVE-2010-0738）JBoss JMX控制台安全验证绕过漏洞"
 id: zhfly2981
 ---
 

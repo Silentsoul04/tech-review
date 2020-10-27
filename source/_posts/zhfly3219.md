@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-17132）vBulletin 5.0 <5.5.4-'updateAvatar'身份验证的远程代码执行漏洞
+title: "（CVE-2019-17132）vBulletin 5.0 <5.5.4-'updateAvatar'身份验证的远程代码执行漏洞"
 id: zhfly3219
 ---
 

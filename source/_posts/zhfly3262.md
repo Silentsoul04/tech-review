@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-6977）WordPress 5.0 rce
+title: "（CVE-2019-6977）WordPress 5.0 rce"
 id: zhfly3262
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-7471）Django sql注入漏洞
+title: "（CVE-2020-7471）Django sql注入漏洞"
 id: zhfly2887
 ---
 

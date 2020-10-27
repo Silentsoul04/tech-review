@@ -1,5 +1,5 @@
 ---
-title: MyBB <= 1.8.3 rce漏洞
+title: "MyBB <= 1.8.3 rce漏洞"
 id: zhfly3034
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike C2 Profile 简介
+title: "Cobalt Strike C2 Profile 简介"
 id: zhfly3645
 ---
 

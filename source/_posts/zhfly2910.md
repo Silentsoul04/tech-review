@@ -1,5 +1,5 @@
 ---
-title: Emlog 友情链接自助插件存在SQL注入漏洞
+title: "Emlog 友情链接自助插件存在SQL注入漏洞"
 id: zhfly2910
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2017-6920）Drupal Core 8 PECL YAML 反序列化任意代码执行漏洞
+title: "（CVE-2017-6920）Drupal Core 8 PECL YAML 反序列化任意代码执行漏洞"
 id: zhfly2892
 ---
 

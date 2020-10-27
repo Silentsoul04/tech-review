@@ -1,5 +1,5 @@
 ---
-title: 【开启会员注册】（SSV-97074）DeDecms 前台任意用户密码修改
+title: "【开启会员注册】（SSV-97074）DeDecms 前台任意用户密码修改"
 id: zhfly2863
 ---
 

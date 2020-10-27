@@ -1,5 +1,5 @@
 ---
-title: PROMPT_COMMAND
+title: "PROMPT_COMMAND"
 id: zhfly3507
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-14574）Django < 2.0.8 任意URL跳转漏洞
+title: "（CVE-2018-14574）Django < 2.0.8 任意URL跳转漏洞"
 id: zhfly2885
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-2725）（CNVD-C-2019-48814）Weblogic反序列化远程代码执行漏洞
+title: "（CVE-2019-2725）（CNVD-C-2019-48814）Weblogic反序列化远程代码执行漏洞"
 id: zhfly3230
 ---
 

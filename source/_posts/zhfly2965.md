@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-6949）HashBrown CMS postUser 函数存在提权漏洞
+title: "（CVE-2020-6949）HashBrown CMS postUser 函数存在提权漏洞"
 id: zhfly2965
 ---
 

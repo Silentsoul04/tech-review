@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-12616）Phpmyadmin CSRF
+title: "（CVE-2019-12616）Phpmyadmin CSRF"
 id: zhfly3084
 ---
 

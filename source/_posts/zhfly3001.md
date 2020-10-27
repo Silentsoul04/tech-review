@@ -1,5 +1,5 @@
 ---
-title: Joomla! com_hdwplayer 4.2 - 'search.php' sql注入
+title: "Joomla! com_hdwplayer 4.2 - 'search.php' sql注入"
 id: zhfly3001
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-16773）WordPress 5.3.0 储存型xss
+title: "（CVE-2019-16773）WordPress 5.3.0 储存型xss"
 id: zhfly3268
 ---
 

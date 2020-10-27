@@ -1,5 +1,5 @@
 ---
-title: XDCMS 1.0 csrf漏洞
+title: "XDCMS 1.0 csrf漏洞"
 id: zhfly3274
 ---
 

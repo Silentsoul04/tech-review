@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-7653）YzmCMS v3.6 xss漏洞
+title: "（CVE-2018-7653）YzmCMS v3.6 xss漏洞"
 id: zhfly3304
 ---
 

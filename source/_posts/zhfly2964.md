@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-6948）HashBrown CMS 远程命令执行漏洞
+title: "（CVE-2020-6948）HashBrown CMS 远程命令执行漏洞"
 id: zhfly2964
 ---
 

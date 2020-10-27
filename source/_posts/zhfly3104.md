@@ -1,5 +1,5 @@
 ---
-title: (python)redis未授权批量提权脚本
+title: "(python)redis未授权批量提权脚本"
 id: zhfly3104
 ---
 

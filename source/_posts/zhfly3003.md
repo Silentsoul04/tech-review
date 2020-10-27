@@ -1,5 +1,5 @@
 ---
-title: JYmusic 2.0 前台XSS漏洞
+title: "JYmusic 2.0 前台XSS漏洞"
 id: zhfly3003
 ---
 

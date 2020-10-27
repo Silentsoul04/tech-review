@@ -1,5 +1,5 @@
 ---
-title: （CVE-2016-3088）ActiveMQ应用漏洞
+title: "（CVE-2016-3088）ActiveMQ应用漏洞"
 id: zhfly2801
 ---
 

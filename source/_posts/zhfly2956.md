@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-19596）Gitbook 储存型xss
+title: "（CVE-2019-19596）Gitbook 储存型xss"
 id: zhfly2956
 ---
 

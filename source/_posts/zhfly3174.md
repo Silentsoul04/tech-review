@@ -1,5 +1,5 @@
 ---
-title: Thinkphp 6.1 任意文件创建&删除漏洞
+title: "Thinkphp 6.1 任意文件创建&删除漏洞"
 id: zhfly3174
 ---
 

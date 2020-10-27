@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-16522）WordPress Plugin - EU Cookie Law (GDPR) 储存型xss
+title: "（CVE-2019-16522）WordPress Plugin - EU Cookie Law (GDPR) 储存型xss"
 id: zhfly3252
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-6418）Chrome 远程代码执行漏洞
+title: "（CVE-2020-6418）Chrome 远程代码执行漏洞"
 id: zhfly2961
 ---
 

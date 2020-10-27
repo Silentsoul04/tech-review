@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-19092）YzmCMS v5.2 xss漏洞
+title: "（CVE-2018-19092）YzmCMS v5.2 xss漏洞"
 id: zhfly3306
 ---
 

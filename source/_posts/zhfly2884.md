@@ -1,5 +1,5 @@
 ---
-title: （CVE-2017-12794）Django debug page XSS漏洞
+title: "（CVE-2017-12794）Django debug page XSS漏洞"
 id: zhfly2884
 ---
 

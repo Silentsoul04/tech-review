@@ -1,5 +1,5 @@
 ---
-title: Emlog 6.0 xss集合
+title: "Emlog 6.0 xss集合"
 id: zhfly2913
 ---
 

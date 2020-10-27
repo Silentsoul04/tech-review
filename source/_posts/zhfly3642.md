@@ -1,5 +1,5 @@
 ---
-title: Cobalt Strike Beacon 基础文件管理
+title: "Cobalt Strike Beacon 基础文件管理"
 id: zhfly3642
 ---
 

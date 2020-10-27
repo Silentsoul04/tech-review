@@ -1,5 +1,5 @@
 ---
-title: （CVE-2018-7662）Couchcms 2.0 存在路径泄露漏洞
+title: "（CVE-2018-7662）Couchcms 2.0 存在路径泄露漏洞"
 id: zhfly2859
 ---
 

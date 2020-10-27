@@ -1,5 +1,5 @@
 ---
-title: XDCMS 1.0 sql注入漏洞（二）
+title: "XDCMS 1.0 sql注入漏洞（二）"
 id: zhfly3273
 ---
 

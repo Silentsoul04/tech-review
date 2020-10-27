@@ -1,5 +1,5 @@
 ---
-title: Seacms储存型xss
+title: "Seacms储存型xss"
 id: zhfly3111
 ---
 

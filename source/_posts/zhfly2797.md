@@ -1,5 +1,5 @@
 ---
-title: 74cms v6.0.4 反射型xss
+title: "74cms v6.0.4 反射型xss"
 id: zhfly2797
 ---
 

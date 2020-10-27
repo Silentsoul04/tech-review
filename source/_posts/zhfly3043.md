@@ -1,5 +1,5 @@
 ---
-title: Nginx 配置错误漏洞 add_header被覆盖
+title: "Nginx 配置错误漏洞 add_header被覆盖"
 id: zhfly3043
 ---
 

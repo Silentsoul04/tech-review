@@ -1,5 +1,5 @@
 ---
-title: Blind XXE 与 OOB-XXE
+title: "Blind XXE 与 OOB-XXE"
 id: zhfly3591
 ---
 

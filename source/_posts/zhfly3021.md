@@ -1,5 +1,5 @@
 ---
-title: MIP建站系统 v5.0.5 SSRF漏洞
+title: "MIP建站系统 v5.0.5 SSRF漏洞"
 id: zhfly3021
 ---
 

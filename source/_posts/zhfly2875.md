@@ -1,5 +1,5 @@
 ---
-title: Discuz x3.4 imgcropper ssrf
+title: "Discuz x3.4 imgcropper ssrf"
 id: zhfly2875
 ---
 

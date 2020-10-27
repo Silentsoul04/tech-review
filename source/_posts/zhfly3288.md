@@ -1,5 +1,5 @@
 ---
-title: YouDianCMS 8.0 Storeage XSS
+title: "YouDianCMS 8.0 Storeage XSS"
 id: zhfly3288
 ---
 

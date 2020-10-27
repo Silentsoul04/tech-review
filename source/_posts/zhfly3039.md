@@ -1,5 +1,5 @@
 ---
-title: （CVE-2019-5475）Nexus2 yum插件RCE漏洞
+title: "（CVE-2019-5475）Nexus2 yum插件RCE漏洞"
 id: zhfly3039
 ---
 

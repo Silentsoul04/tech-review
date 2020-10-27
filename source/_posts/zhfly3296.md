@@ -1,5 +1,5 @@
 ---
-title: YXcmsApp 1.4.3任意用户密码重置漏洞
+title: "YXcmsApp 1.4.3任意用户密码重置漏洞"
 id: zhfly3296
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: （CVE-2020-8813）Cacti v1.2.8 远程命令执行漏洞
+title: "（CVE-2020-8813）Cacti v1.2.8 远程命令执行漏洞"
 id: zhfly2834
 ---
 
@@ -292,7 +292,7 @@ $null_param = array();`
 ```
 #!/usr/bin/python3
 
-# Exploit Title: Cacti v1.2.8 Remote Code Execution
+# Exploit title: "Cacti v1.2.8 Remote Code Execution"
 
 # Date: 03/02/2020
 
@@ -473,7 +473,7 @@ exit()`
 ```
 #!/usr/bin/python3
 
-# Exploit Title: Cacti v1.2.8 Unauthenticated Remote Code Execution
+# Exploit title: "Cacti v1.2.8 Unauthenticated Remote Code Execution"
 
 # Date: 03/02/2020
 
