@@ -3,6 +3,8 @@ title: "Jinja2 SSTI 服务端模版注入攻击"
 id: zhfly2990
 ---
 
+{% raw %}
+
 # Flask / jinja2 SSTI 服务端模版注入攻击
 
 ## 一、漏洞简介
@@ -47,3 +49,5 @@ docker-compose up -d
 > https://drops.org.cn/Python/flask-jinja2-ssti.html#directory072591889128396616
 
 > https://vulhub.org/#/environments/flask/ssti/
+
+{% endraw %}
